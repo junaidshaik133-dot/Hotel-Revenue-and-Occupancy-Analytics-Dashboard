@@ -76,5 +76,5 @@ Property Benchmarking: Helps managers quickly identify high vs low-performing pr
 Operational Insights: Occupancy and ADR trends highlight opportunities for pricing adjustments and capacity utilization.
 
 # 6. Screenshots / Demos
-Show what the dashboard looks like. -(https://github.com/junaidshaik133-dot/Hotel-Revenue-Occupancy-Analytics-Dashboard-Hospitality-Domain-/blob/main/Snapshot%20of%20dashboard)
+Show what the dashboard looks like. -(https://github.com/junaidshaik133-dot/Hotel-Revenue-and-Occupancy-Analytics-Dashboard/blob/main/snap%20shot.pdf)
 
